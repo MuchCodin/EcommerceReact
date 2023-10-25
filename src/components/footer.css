@@ -1,0 +1,47 @@
+.footer {
+    display: flex;
+    justify-content: space-between;
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+  }
+  
+  .contact-info, .social-media {
+    flex: 1;
+    margin: 0 10px;
+  }
+  
+  .contact-info h3, .social-media h3 {
+    font-size: 1.2rem;
+    margin-bottom: 10px;
+  }
+  
+  .contact-info p, .social-media ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .social-links li {
+    margin-bottom: 5px;
+  }
+  
+  .social-links a {
+    text-decoration: none;
+    color: #fff;
+    display: inline-block;
+    margin-right: 10px;
+  }
+  
+  /* Media query for smaller screens */
+  @media (max-width: 768px) {
+    .footer {
+      flex-direction: column;
+      align-items: center;
+    }
+  
+    .contact-info, .social-media {
+      margin: 0;
+      text-align: center;
+    }
+  }
+  
