@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/MuchCodin.github.io/EcommerceReact/static/css/main.a20c298b.css",
+    "main.js": "/MuchCodin.github.io/EcommerceReact/static/js/main.864de091.js",
+    "static/js/787.8caa6f87.chunk.js": "/MuchCodin.github.io/EcommerceReact/static/js/787.8caa6f87.chunk.js",
+    "static/media/birthdays.png": "/MuchCodin.github.io/EcommerceReact/static/media/birthdays.ba9f60df58bfec2fca20.png",
+    "static/media/cupcakes.png": "/MuchCodin.github.io/EcommerceReact/static/media/cupcakes.44d2adf192f0c1883f4d.png",
+    "static/media/cupcake.png": "/MuchCodin.github.io/EcommerceReact/static/media/cupcake.5f30b5adb0ee6d906b91.png",
+    "static/media/cake.png": "/MuchCodin.github.io/EcommerceReact/static/media/cake.e11b1abf14a45ce09b9c.png",
+    "static/media/romantic.png": "/MuchCodin.github.io/EcommerceReact/static/media/romantic.fddde17ea4709b3dc849.png",
+    "static/media/custom2.png": "/MuchCodin.github.io/EcommerceReact/static/media/custom2.64a7030b5cc66efdc2f5.png",
+    "index.html": "/MuchCodin.github.io/EcommerceReact/index.html",
+    "main.a20c298b.css.map": "/MuchCodin.github.io/EcommerceReact/static/css/main.a20c298b.css.map",
+    "main.864de091.js.map": "/MuchCodin.github.io/EcommerceReact/static/js/main.864de091.js.map",
+    "787.8caa6f87.chunk.js.map": "/MuchCodin.github.io/EcommerceReact/static/js/787.8caa6f87.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a20c298b.css",
+    "static/js/main.864de091.js"
+  ]
+}
