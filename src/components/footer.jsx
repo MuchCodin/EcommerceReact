@@ -16,7 +16,7 @@ export const Footer = () => {
         <ul className="social-links">
           <li><a href="https://facebook.com">Facebook</a></li>
           <li><a href="https://twitter.com">Twitter</a></li>
-          <li><a href="https://instagram.com">Instagram</a></li>
+          <li><a href="https://www.instagram.com/delectabletreats_za?igsh=MnVkZzhxNnJpeXNh">Instagram</a></li>
           <li><a href="https://linkedin.com">LinkedIn</a></li>
         </ul>
       </div>
